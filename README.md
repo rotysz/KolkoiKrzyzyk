@@ -1,0 +1,2 @@
+# KolkoiKrzyzyk
+Projekt szkolny
